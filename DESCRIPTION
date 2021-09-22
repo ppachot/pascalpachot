@@ -1,0 +1,16 @@
+Package: pascalpachot
+Title: Say Hello to somebody
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Pascal",
+           family = "Pachot",
+           role = c("aut", "cre"),
+           email = "ppachot@diana-petfood.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Associe "Bonjour" à un prénom renseigné, par défaut "toi".
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: glue
